@@ -1,0 +1,649 @@
+city,country,venue,opening_act(s),revenue,tour,tickets_sold
+Evansville,United States,Roberts Municipal Stadium,"Gloriana
+Kellie Pickler",360617,Fearless_Tour,"7,463 "
+Jonesboro,United States,Convocation Center,"Gloriana
+Kellie Pickler",340328,Fearless_Tour,"7,822 "
+St. Louis,United States,Scottrade Center,"Gloriana
+Kellie Pickler",650420,Fearless_Tour,"13,764 "
+North Charleston,United States,North Charleston Coliseum,"Gloriana
+Kellie Pickler",398154,Fearless_Tour,"8,751 "
+Jacksonville,United States,Jacksonville Veterans Memorial Arena,"Gloriana
+Kellie Pickler",507012,Fearless_Tour,"11,072 "
+Biloxi,United States,Mississippi Coast Coliseum,"Gloriana
+Kellie Pickler",437313,Fearless_Tour,"9,436 "
+London,England,Shepherd's Bush Empire,�,401328,Fearless_Tour,"6,789 "
+London,England,Shepherd's Bush Empire,�,401328,Fearless_Tour,"6,789 "
+Spokane,United States,Spokane Arena,"Gloriana
+Kellie Pickler",482146,Fearless_Tour,"10,798 "
+Seattle,United States,KeyArena,"Gloriana
+Kellie Pickler",528637,Fearless_Tour,"12,061 "
+Portland,United States,Rose Garden Arena,"Gloriana
+Kellie Pickler",613284,Fearless_Tour,"13,226 "
+Nampa,United States,Ford Arena,"Gloriana
+Kellie Pickler",413622,Fearless_Tour,"8,970 "
+Glendale,United States,Jobing.com Arena,"Gloriana
+Kellie Pickler",647923,Fearless_Tour,"13,052 "
+Los Angeles,United States,Staples Center,"Gloriana
+Kellie Pickler",720940,Fearless_Tour,"13,648 "
+Paradise,United States,Mandalay Bay Events Center,"Gloriana
+Kellie Pickler",551051,Fearless_Tour,"8,311 "
+San Diego,United States,Valley View Casino Center,"Gloriana
+Kellie Pickler",502689,Fearless_Tour,"10,174 "
+Salt Lake City,United States,EnergySolutions Arena,"Gloriana
+Kellie Pickler",555207,Fearless_Tour,"13,042 "
+Columbia,United States,Merriweather Post Pavilion,"Gloriana
+Kellie Pickler",608438,Fearless_Tour,"17,619 "
+Greensboro,United States,Greensboro Coliseum,"Gloriana
+Kellie Pickler",690959,Fearless_Tour,"14,641 "
+Edmonton,Canada,Commonwealth Stadium,�,2540906,Fearless_Tour,"33,910 "
+Winnipeg,Canada,MTS Centre,"Gloriana
+Kellie Pickler",512487,Fearless_Tour,"11,369 "
+New York City,United States,Madison Square Garden,"Gloriana
+Kellie Pickler",976062,Fearless_Tour,"13,597 "
+Montville,United States,Mohegan Sun Arena,"Gloriana
+Kellie Pickler",296306,Fearless_Tour,"7,507 "
+Nashville,United States,Bridgestone Arena,"Gloriana
+Kellie Pickler",642387,Fearless_Tour,"14,269 "
+Dallas,United States,American Airlines Center,"Gloriana
+Kellie Pickler",628062,Fearless_Tour,"13,794 "
+North Little Rock,United States,Verizon Arena,"Gloriana
+Kellie Pickler",654089,Fearless_Tour,"13,978 "
+Cleveland,United States,Quicken Loans Arena,"Gloriana
+Kellie Pickler",743492,Fearless_Tour,"15,524 "
+Indianapolis,United States,Conseco Fieldhouse,"Gloriana
+Kellie Pickler",634876,Fearless_Tour,"13,373 "
+Rosemont,United States,Allstate Arena,"Gloriana
+Kellie Pickler",1150896,Fearless_Tour,"26,265 "
+Rosemont,United States,Allstate Arena,"Gloriana
+Kellie Pickler",1150896,Fearless_Tour,"26,265 "
+Minneapolis,United States,Target Center,"Gloriana
+Kellie Pickler",623975,Fearless_Tour,"13,563 "
+Brisbane,Australia,Brisbane Entertainment Centre,Gloriana,956505,Fearless_Tour,"11,334 "
+Sydney,Australia,Acer Arena,Gloriana,2030640,Fearless_Tour,"27,030 "
+Sydney,Australia,Acer Arena,Gloriana,2030640,Fearless_Tour,"27,030 "
+Newcastle,Australia,Newcastle Entertainment Centre,Gloriana,555396,Fearless_Tour,"7,180 "
+Melbourne,Australia,Rod Laver Arena,Gloriana,1627510,Fearless_Tour,"23,493 "
+Melbourne,Australia,Rod Laver Arena,Gloriana,1627510,Fearless_Tour,"23,493 "
+Adelaide,Australia,Adelaide Entertainment Centre,Gloriana,585352,Fearless_Tour,"9,066 "
+Tampa,United States,St. Pete Times Forum,"Gloriana
+Kellie Pickler",793049,Fearless_Tour,"13,861 "
+Orlando,United States,Amway Arena,"Gloriana
+Kellie Pickler",598581,Fearless_Tour,"11,101 "
+Sunrise,United States,BankAtlantic Center,"Gloriana
+Kellie Pickler",777442,Fearless_Tour,"13,453 "
+Austin,United States,Frank Erwin Center,"Gloriana
+Kellie Pickler",642705,Fearless_Tour,"11,928 "
+Dallas,United States,American Airlines Center,"Gloriana
+Kellie Pickler",742954,Fearless_Tour,"14,022 "
+Corpus Christi,United States,American Bank Center Arena,"Gloriana
+Kellie Pickler",501169,Fearless_Tour,"8,423 "
+Philadelphia,United States,Wells Fargo Center,"Gloriana
+Kellie Pickler",2002321,Fearless_Tour,"30,360 "
+Philadelphia,United States,Wells Fargo Center,"Gloriana
+Kellie Pickler",2002321,Fearless_Tour,"30,360 "
+Charlottesville,United States,John Paul Jones Arena,"Gloriana
+Kellie Pickler",664305,Fearless_Tour,"11,858 "
+Auburn Hills,United States,The Palace of Auburn Hills,"Gloriana
+Kellie Pickler",1711591,Fearless_Tour,"29,125 "
+Auburn Hills,United States,The Palace of Auburn Hills,"Gloriana
+Kellie Pickler",1711591,Fearless_Tour,"29,125 "
+Cincinnati,United States,U.S. Bank Arena,"Gloriana
+Kellie Pickler",645592,Fearless_Tour,"11,208 "
+Oklahoma City,United States,Ford Center,"Gloriana
+Kellie Pickler",675184,Fearless_Tour,"11,795 "
+Wichita,United States,Intrust Bank Arena,"Gloriana
+Kellie Pickler",610801,Fearless_Tour,"11,208 "
+Kansas City,United States,Sprint Center,"Gloriana
+Kellie Pickler",761110,Fearless_Tour,"13,781 "
+Denver,United States,Pepsi Center,"Gloriana
+Kellie Pickler",1497135,Fearless_Tour,"25,991 "
+Denver,United States,Pepsi Center,"Gloriana
+Kellie Pickler",1497135,Fearless_Tour,"25,991 "
+Fresno,United States,Save Mart Center,"Gloriana
+Kellie Pickler",649488,Fearless_Tour,"11,706 "
+San Jose,United States,HP Pavilion,"Gloriana
+Kellie Pickler",716726,Fearless_Tour,"12,744 "
+Los Angeles,United States,Staples Center,"Gloriana
+Kellie Pickler",1736197,Fearless_Tour,"27,518 "
+Los Angeles,United States,Staples Center,"Gloriana
+Kellie Pickler",1736197,Fearless_Tour,"27,518 "
+Lexington,United States,Rupp Arena,"Gloriana
+Kellie Pickler",1024223,Fearless_Tour,"17,966 "
+Columbia,United States,Colonial Life Arena,"Gloriana
+Kellie Pickler",755475,Fearless_Tour,"13,429 "
+Raleigh,United States,RBC Center,"Gloriana
+Kellie Pickler",752303,Fearless_Tour,"13,895 "
+Des Moines,United States,Wells Fargo Arena,"Gloriana
+Kellie Pickler",738280,Fearless_Tour,"13,264 "
+Saint Paul,United States,Xcel Energy Center,"Gloriana
+Kellie Pickler",846111,Fearless_Tour,"14,914 "
+Moline,United States,iWireless Center,"Gloriana
+Kellie Pickler",610668,Fearless_Tour,"10,641 "
+Newark,United States,Prudential Center,"Gloriana
+Kellie Pickler",1742669,Fearless_Tour,"26,065 "
+Newark,United States,Prudential Center,"Gloriana
+Kellie Pickler",1742669,Fearless_Tour,"26,065 "
+Uniondale,United States,Nassau Veterans Memorial Coliseum,"Gloriana
+Kellie Pickler",1713529,Fearless_Tour,"25,831 "
+Uniondale,United States,Nassau Veterans Memorial Coliseum,"Gloriana
+Kellie Pickler",1713529,Fearless_Tour,"25,831 "
+Ottawa,Canada,Scotiabank Place,"Gloriana
+Kellie Pickler",873206,Fearless_Tour,"13,376 "
+Toronto,Canada,Air Canada Centre,"Gloriana
+Kellie Pickler",2497690,Fearless_Tour,"30,458 "
+Toronto,Canada,Air Canada Centre,"Gloriana
+Kellie Pickler",2497690,Fearless_Tour,"30,458 "
+Houston,United States,Toyota Center,"Gloriana
+Kellie Pickler",1290926,Fearless_Tour,"23,493 "
+Houston,United States,Toyota Center,"Gloriana
+Kellie Pickler",1290926,Fearless_Tour,"23,493 "
+Washington,United States,Verizon Center,"Gloriana
+Kellie Pickler",1824743,Fearless_Tour,"27,290 "
+Washington,United States,Verizon Center,"Gloriana
+Kellie Pickler",1824743,Fearless_Tour,"27,290 "
+Foxborough,United States,Gillette Stadium,"Gloriana
+Justin Bieber
+Kellie Pickler",3726157,Fearless_Tour,"56,868 "
+Cavendish,Canada,Cavendish Beach Festival Grounds,�,0,Fearless_Tour,"35,000 "
+Singapore,Singapore,Singapore Indoor Stadium,Sezairi Sezali,916850,Speak_Now_World_Tour,"8,964 "
+Seoul,South Korea,Olympic Gymnastics Arena,�,385374,Speak_Now_World_Tour,"4,725 "
+Osaka,Japan,Osaka-Jo Hall,�,758113,Speak_Now_World_Tour,"6,953 "
+Tokyo,Japan,Nippon Budokan,�,1738227,Speak_Now_World_Tour,"15,955 "
+Tokyo,Japan,Nippon Budokan,�,1738227,Speak_Now_World_Tour,"15,955 "
+Quezon City,Philippines,Smart Araneta Coliseum,Sam Concepcion,859037,Speak_Now_World_Tour,"12,667 "
+Hong Kong,Hong Kong,AsiaWorld�Arena,Saito Johnny,1030633,Speak_Now_World_Tour,"12,573 "
+Brussels,Belgium,Forest National,Tom Dice,219212,Speak_Now_World_Tour,"4,622 "
+Rotterdam,Netherlands,Sportpaleis van Ahoy,Tom Dice,248314,Speak_Now_World_Tour,"4,799 "
+Oslo,Norway,Oslo Spektrum,�,815246,Speak_Now_World_Tour,"8,650 "
+Oberhausen,Germany,K�nig Pilsener Arena,Martin & James,370028,Speak_Now_World_Tour,"6,082 "
+Milan,Italy,Mediolanum Forum,Emma Marrone,153303,Speak_Now_World_Tour,"3,421 "
+Paris,France,Z�nith de Paris,�,201781,Speak_Now_World_Tour,"3,598 "
+Madrid,Spain,Palacio de los Deportes,The Bright,251864,Speak_Now_World_Tour,"3,962 "
+Birmingham,England,LG Arena,Martin & James,508854,Speak_Now_World_Tour,"9,339 "
+Belfast,Northern Ireland,Odyssey Arena,Ryan Sheridan,379001,Speak_Now_World_Tour,"8,058 "
+Dublin,Ireland,The O2,Ryan Sheridan,419806,Speak_Now_World_Tour,"8,681 "
+Manchester,England,Manchester Evening News Arena,Martin & James,580558,Speak_Now_World_Tour,"10,488 "
+London,England,The O2 Arena,Martin & James,891152,Speak_Now_World_Tour,"15,265 "
+Omaha,United States,Qwest Center Omaha,Needtobreathe,1717104,Speak_Now_World_Tour,"26,992 "
+Omaha,United States,Qwest Center Omaha,Needtobreathe,1717104,Speak_Now_World_Tour,"26,992 "
+Des Moines,United States,Wells Fargo Arena,Needtobreathe,862771,Speak_Now_World_Tour,"13,149 "
+Sunrise,United States,BankAtlantic Center,Needtobreathe,1582951,Speak_Now_World_Tour,"24,077 "
+Sunrise,United States,BankAtlantic Center,Needtobreathe,1582951,Speak_Now_World_Tour,"24,077 "
+Orlando,United States,Amway Center,Needtobreathe,791980,Speak_Now_World_Tour,"12,262 "
+Columbus,United States,Nationwide Arena,Needtobreathe,955259,Speak_Now_World_Tour,"14,817 "
+Milwaukee,United States,Bradley Center,Needtobreathe,897042,Speak_Now_World_Tour,"13,748 "
+Detroit,United States,Ford Field,Needtobreathe,3453549,Speak_Now_World_Tour,"47,992 "
+Saint Paul,United States,Xcel Energy Center,Needtobreathe,1913737,Speak_Now_World_Tour,"28,977 "
+Saint Paul,United States,Xcel Energy Center,Needtobreathe,1913737,Speak_Now_World_Tour,"28,977 "
+Pittsburgh,United States,Heinz Field,Needtobreathe,4009118,Speak_Now_World_Tour,"52,009 "
+Buffalo,United States,First Niagara Center,Needtobreathe,966749,Speak_Now_World_Tour,"14,487 "
+Hartford,United States,XL Center,Needtobreathe,810165,Speak_Now_World_Tour,"12,436 "
+Foxborough,United States,Gillette Stadium,Needtobreathe,8026350,Speak_Now_World_Tour,"110,800 "
+Foxborough,United States,Gillette Stadium,Needtobreathe,8026350,Speak_Now_World_Tour,"110,800 "
+Greensboro,United States,Greensboro Coliseum,Needtobreathe,990701,Speak_Now_World_Tour,"14,789 "
+Knoxville,United States,Thompson�Boling Arena,Needtobreathe,903875,Speak_Now_World_Tour,"13,754 "
+Montreal,Canada,Bell Centre,Needtobreathe,1254230,Speak_Now_World_Tour,"13,439 "
+Toronto,Canada,Air Canada Centre,Needtobreathe,3036000,Speak_Now_World_Tour,"30,144 "
+Toronto,Canada,Air Canada Centre,Needtobreathe,3036000,Speak_Now_World_Tour,"30,144 "
+Newark,United States,Prudential Center,Needtobreathe,3875463,Speak_Now_World_Tour,"51,487 "
+Newark,United States,Prudential Center,Needtobreathe,3875463,Speak_Now_World_Tour,"51,487 "
+Newark,United States,Prudential Center,Needtobreathe,3875463,Speak_Now_World_Tour,"51,487 "
+Newark,United States,Prudential Center,Needtobreathe,3875463,Speak_Now_World_Tour,"51,487 "
+Grand Rapids,United States,Van Andel Arena,Needtobreathe,724854,Speak_Now_World_Tour,"11,012 "
+Indianapolis,United States,Conseco Fieldhouse,Needtobreathe,877175,Speak_Now_World_Tour,"13,329 "
+Cleveland,United States,Quicken Loans Arena,Needtobreathe,976954,Speak_Now_World_Tour,"14,873 "
+Washington,United States,Verizon Center,Needtobreathe,2068789,Speak_Now_World_Tour,"29,303 "
+Washington,United States,Verizon Center,Needtobreathe,2068789,Speak_Now_World_Tour,"29,303 "
+Philadelphia,United States,Lincoln Financial Field,Needtobreathe,4268678,Speak_Now_World_Tour,"51,395 "
+Rosemont,United States,Allstate Arena,Needtobreathe,1909603,Speak_Now_World_Tour,"26,112 "
+Rosemont,United States,Allstate Arena,Needtobreathe,1909603,Speak_Now_World_Tour,"26,112 "
+St. Louis,United States,Scottrade Center,Needtobreathe,1850159,Speak_Now_World_Tour,"27,965 "
+St. Louis,United States,Scottrade Center,Needtobreathe,1850159,Speak_Now_World_Tour,"27,965 "
+Edmonton,Canada,Rexall Place,Needtobreathe,2136270,Speak_Now_World_Tour,"25,336 "
+Edmonton,Canada,Rexall Place,Needtobreathe,2136270,Speak_Now_World_Tour,"25,336 "
+Los Angeles,United States,Staples Center,Needtobreathe,3927154,Speak_Now_World_Tour,"54,900 "
+Los Angeles,United States,Staples Center,Needtobreathe,3927154,Speak_Now_World_Tour,"54,900 "
+Los Angeles,United States,Staples Center,Needtobreathe,3927154,Speak_Now_World_Tour,"54,900 "
+Los Angeles,United States,Staples Center,Needtobreathe,3927154,Speak_Now_World_Tour,"54,900 "
+San Jose,United States,HP Pavilion,Needtobreathe,1825448,Speak_Now_World_Tour,"24,827 "
+San Jose,United States,HP Pavilion,Needtobreathe,1825448,Speak_Now_World_Tour,"24,827 "
+Sacramento,United States,Power Balance Pavilion,Needtobreathe,934326,Speak_Now_World_Tour,"12,432 "
+Portland,United States,Rose Garden Arena,Needtobreathe,903445,Speak_Now_World_Tour,"13,610 "
+Tacoma,United States,Tacoma Dome,Needtobreathe,1289430,Speak_Now_World_Tour,"19,904 "
+Vancouver,Canada,Rogers Arena,Needtobreathe,2190680,Speak_Now_World_Tour,"26,030 "
+Vancouver,Canada,Rogers Arena,Needtobreathe,2190680,Speak_Now_World_Tour,"26,030 "
+Nashville,United States,Bridgestone Arena,Needtobreathe,1841134,Speak_Now_World_Tour,"28,178 "
+Nashville,United States,Bridgestone Arena,Needtobreathe,1841134,Speak_Now_World_Tour,"28,178 "
+Bossier City,United States,CenturyLink Center,Needtobreathe,728546,Speak_Now_World_Tour,"11,510 "
+Tulsa,United States,BOK Center,Needtobreathe,907573,Speak_Now_World_Tour,"12,546 "
+Kansas City,United States,Arrowhead Stadium,Needtobreathe,3148046,Speak_Now_World_Tour,"48,562 "
+Denver,United States,Pepsi Center,Needtobreathe,834916,Speak_Now_World_Tour,"12,908 "
+Salt Lake City,United States,EnergySolutions Arena,Needtobreathe,896946,Speak_Now_World_Tour,"13,720 "
+Atlanta,United States,Philips Arena,Needtobreathe,1726661,Speak_Now_World_Tour,"26,244 "
+Atlanta,United States,Philips Arena,Needtobreathe,1726661,Speak_Now_World_Tour,"26,244 "
+North Little Rock,United States,Verizon Arena,Needtobreathe,856123,Speak_Now_World_Tour,"13,566 "
+New Orleans,United States,New Orleans Arena,Needtobreathe,830289,Speak_Now_World_Tour,"12,943 "
+Arlington,United States,Cowboys Stadium,Needtobreathe,4337062,Speak_Now_World_Tour,"55,451 "
+Louisville,United States,KFC Yum! Center,Needtobreathe,1003828,Speak_Now_World_Tour,"14,848 "
+Lubbock,United States,United Spirit Arena,Needtobreathe,710426,Speak_Now_World_Tour,"10,419 "
+Oklahoma City,United States,Chesapeake Energy Arena,Needtobreathe,758364,Speak_Now_World_Tour,"11,592 "
+San Diego,United States,Valley View Casino Center,Needtobreathe,792634,Speak_Now_World_Tour,"10,834 "
+Glendale,United States,Jobing.com Arena,Needtobreathe,1826025,Speak_Now_World_Tour,"27,029 "
+Glendale,United States,Jobing.com Arena,Needtobreathe,1826025,Speak_Now_World_Tour,"27,029 "
+San Antonio,United States,AT&T Center,Needtobreathe,901535,Speak_Now_World_Tour,"13,851 "
+Austin,United States,Frank Erwin Center,Needtobreathe,752078,Speak_Now_World_Tour,"11,999 "
+Lexington,United States,Rupp Arena,Needtobreathe,1041935,Speak_Now_World_Tour,"16,237 "
+Memphis,United States,FedExForum,Needtobreathe,820036,Speak_Now_World_Tour,"12,604 "
+Houston,United States,Minute Maid Park,Needtobreathe,3435756,Speak_Now_World_Tour,"42,095 "
+Jacksonville,United States,Jacksonville Veterans Memorial Arena,Needtobreathe,749099,Speak_Now_World_Tour,"11,785 "
+Tampa,United States,St. Pete Times Forum,Needtobreathe,914300,Speak_Now_World_Tour,"13,695 "
+Miami,United States,American Airlines Arena,Needtobreathe,786904,Speak_Now_World_Tour,"12,153 "
+Charlotte,United States,Time Warner Cable Arena,Needtobreathe,920903,Speak_Now_World_Tour,"14,272 "
+Raleigh,United States,RBC Center,Needtobreathe,866056,Speak_Now_World_Tour,"13,567 "
+Columbia,United States,Colonial Life Arena,Needtobreathe,828231,Speak_Now_World_Tour,"12,807 "
+New York,United States,Madison Square Garden,Needtobreathe,1988411,Speak_Now_World_Tour,"26,652 "
+New York,United States,Madison Square Garden,Needtobreathe,1988411,Speak_Now_World_Tour,"26,652 "
+Perth,Australia,Burswood Dome,Hot Chelle Rae,1878530,Speak_Now_World_Tour,"15,142 "
+Adelaide,Australia,Adelaide Entertainment Centre,Hot Chelle Rae,1075370,Speak_Now_World_Tour,"8,589 "
+Brisbane,Australia,Brisbane Entertainment Centre,Hot Chelle Rae,2416030,Speak_Now_World_Tour,"19,870 "
+Brisbane,Australia,Brisbane Entertainment Centre,Hot Chelle Rae,2416030,Speak_Now_World_Tour,"19,870 "
+Sydney,Australia,Allphones Arena,Hot Chelle Rae,3420360,Speak_Now_World_Tour,"27,900 "
+Sydney,Australia,Allphones Arena,Hot Chelle Rae,3420360,Speak_Now_World_Tour,"27,900 "
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650,Speak_Now_World_Tour,"33,793 "
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650,Speak_Now_World_Tour,"33,793 "
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650,Speak_Now_World_Tour,"33,793 "
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560,Speak_Now_World_Tour,"32,585 "
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560,Speak_Now_World_Tour,"32,585 "
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560,Speak_Now_World_Tour,"32,585 "
+Omaha,United States,CenturyLink Center Omaha,"Ed Sheeran
+Brett Eldredge",2243164,The_Red_Tour,"27,877 "
+Omaha,United States,CenturyLink Center Omaha,"Ed Sheeran
+Brett Eldredge",2243164,The_Red_Tour,"27,877 "
+St. Louis,United States,Scottrade Center,"Ed Sheeran
+Brett Eldredge",2346203,The_Red_Tour,"28,582 "
+St. Louis,United States,Scottrade Center,"Ed Sheeran
+Brett Eldredge",2346203,The_Red_Tour,"28,582 "
+Charlotte,United States,Time Warner Cable Arena,"Ed Sheeran
+Brett Eldredge",1162733,The_Red_Tour,"14,686 "
+Columbia,United States,Colonial Life Arena,"Ed Sheeran
+Brett Eldredge",996114,The_Red_Tour,"12,490 "
+Newark,United States,Prudential Center,"Ed Sheeran
+Florida Georgia Line",3565317,The_Red_Tour,"38,065 "
+Newark,United States,Prudential Center,"Ed Sheeran
+Florida Georgia Line",3565317,The_Red_Tour,"38,065 "
+Newark,United States,Prudential Center,"Ed Sheeran
+Florida Georgia Line",3565317,The_Red_Tour,"38,065 "
+Miami,United States,American Airlines Arena,"Ed Sheeran
+Brett Eldredge",1010175,The_Red_Tour,"12,808 "
+Orlando,United States,Amway Center,"Ed Sheeran
+Brett Eldredge",2054128,The_Red_Tour,"25,617 "
+Orlando,United States,Amway Center,"Ed Sheeran
+Brett Eldredge",2054128,The_Red_Tour,"25,617 "
+Atlanta,United States,Philips Arena,"Ed Sheeran
+Brett Eldredge",2048023,The_Red_Tour,"25,471 "
+Atlanta,United States,Philips Arena,"Ed Sheeran
+Brett Eldredge",2048023,The_Red_Tour,"25,471 "
+Tampa,United States,Tampa Bay Times Forum,"Ed Sheeran
+Brett Eldredge",1132095,The_Red_Tour,"14,080 "
+Cleveland,United States,Quicken Loans Arena,"Ed Sheeran
+Brett Eldredge",1247605,The_Red_Tour,"15,336 "
+Indianapolis,United States,Bankers Life Fieldhouse,"Ed Sheeran
+Brett Eldredge",1082042,The_Red_Tour,"13,573 "
+Lexington,United States,Rupp Arena,"Ed Sheeran
+Brett Eldredge",1342699,The_Red_Tour,"17,003 "
+Detroit,United States,Ford Field,"Ed Sheeran
+Austin Mahone
+Brett Eldredge",3969059,The_Red_Tour,"48,265 "
+Louisville,United States,KFC Yum! Center,"Ed Sheeran
+Florida Georgia Line",1246491,The_Red_Tour,"15,135 "
+Columbus,United States,Nationwide Arena,"Ed Sheeran
+Florida Georgia Line",1155170,The_Red_Tour,"14,267 "
+Washington,United States,Verizon Center,"Ed Sheeran
+Brett Eldredge",2489205,The_Red_Tour,"27,619 "
+Washington,United States,Verizon Center,"Ed Sheeran
+Brett Eldredge",2489205,The_Red_Tour,"27,619 "
+Houston,United States,Toyota Center,"Ed Sheeran
+Brett Eldredge",961422,The_Red_Tour,"12,467 "
+Austin,United States,Frank Erwin Center,"Ed Sheeran
+Florida Georgia Line",935631,The_Red_Tour,"11,916 "
+San Antonio,United States,AT&T Center,"Ed Sheeran
+Florida Georgia Line",1105253,The_Red_Tour,"13,974 "
+Arlington,United States,Cowboys Stadium,"Ed Sheeran
+Austin Mahone
+Florida Georgia Line",4589266,The_Red_Tour,"53,020 "
+Glendale,United States,Jobing.com Arena,"Ed Sheeran
+Joel Crouse",2239370,The_Red_Tour,"26,705 "
+Glendale,United States,Jobing.com Arena,"Ed Sheeran
+Joel Crouse",2239370,The_Red_Tour,"26,705 "
+Salt Lake City,United States,EnergySolutions Arena,"Ed Sheeran
+Joel Crouse",1139360,The_Red_Tour,"14,007 "
+Denver,United States,Pepsi Center,"Ed Sheeran
+Joel Crouse",1076069,The_Red_Tour,"13,489 "
+Toronto,Canada,Rogers Centre,"Ed Sheeran
+Austin Mahone
+Joel Crouse",7863310,The_Red_Tour,"87,627 "
+Toronto,Canada,Rogers Centre,"Ed Sheeran
+Austin Mahone
+Joel Crouse",7863310,The_Red_Tour,"87,627 "
+Winnipeg,Canada,Investors Group Field,"Ed Sheeran
+Austin Mahone
+Joel Crouse",3175430,The_Red_Tour,"33,061 "
+Edmonton,Canada,Rexall Place,"Ed Sheeran
+Joel Crouse",2379870,The_Red_Tour,"25,663 "
+Edmonton,Canada,Rexall Place,"Ed Sheeran
+Joel Crouse",2379870,The_Red_Tour,"25,663 "
+Vancouver,Canada,BC Place Stadium,"Ed Sheeran
+Austin Mahone
+Joel Crouse",3974410,The_Red_Tour,"41,142 "
+Pittsburgh,United States,Heinz Field,"Ed Sheeran
+Austin Mahone
+Joel Crouse",4718518,The_Red_Tour,"56,047 "
+East Rutherford,United States,MetLife Stadium,"Ed Sheeran
+Austin Mahone
+Joel Crouse",4670011,The_Red_Tour,"52,399 "
+Philadelphia,United States,Lincoln Financial Field,"Ed Sheeran
+Austin Mahone
+Joel Crouse",8822335,The_Red_Tour,"101,277 "
+Philadelphia,United States,Lincoln Financial Field,"Ed Sheeran
+Austin Mahone
+Joel Crouse",8822335,The_Red_Tour,"101,277 "
+Foxborough,United States,Gillette Stadium,"Ed Sheeran
+Austin Mahone
+Joel Crouse",9464063,The_Red_Tour,"110,712 "
+Foxborough,United States,Gillette Stadium,"Ed Sheeran
+Austin Mahone
+Joel Crouse",9464063,The_Red_Tour,"110,712 "
+Des Moines,United States,Wells Fargo Arena,"Ed Sheeran
+Florida Georgia Line",1075576,The_Red_Tour,"13,368 "
+Kansas City,United States,Sprint Center,"Ed Sheeran
+Florida Georgia Line",2093172,The_Red_Tour,"26,412 "
+Kansas City,United States,Sprint Center,"Ed Sheeran
+Florida Georgia Line",2093172,The_Red_Tour,"26,412 "
+Wichita,United States,Intrust Bank Arena,"Ed Sheeran
+Casey James",983882,The_Red_Tour,"12,231 "
+Tulsa,United States,BOK Center,"Ed Sheeran
+Casey James",868955,The_Red_Tour,"10,949 "
+Chicago,United States,Soldier Field,"Ed Sheeran
+Austin Mahone
+Casey James",4149148,The_Red_Tour,"50,809 "
+San Diego,United States,Valley View Casino Center,"Ed Sheeran
+Casey James",948541,The_Red_Tour,"10,872 "
+Los Angeles,United States,Staples Center,"Ed Sheeran
+Casey James",4734463,The_Red_Tour,"55,829 "
+Los Angeles,United States,Staples Center,"Ed Sheeran
+Casey James",4734463,The_Red_Tour,"55,829 "
+Los Angeles,United States,Staples Center,"Ed Sheeran
+Casey James",4734463,The_Red_Tour,"55,829 "
+Los Angeles,United States,Staples Center,"Ed Sheeran
+Casey James",4734463,The_Red_Tour,"55,829 "
+Sacramento,United States,Sleep Train Arena,"Ed Sheeran
+Casey James",1138103,The_Red_Tour,"12,795 "
+Portland,United States,Moda Center,"Ed Sheeran
+Casey James",1084760,The_Red_Tour,"13,952 "
+Tacoma,United States,Tacoma Dome,"Ed Sheeran
+Casey James",1584049,The_Red_Tour,"20,348 "
+Fargo,United States,Fargodome,"Ed Sheeran
+Casey James",1661578,The_Red_Tour,"21,073 "
+Saint Paul,United States,Xcel Energy Center,"Ed Sheeran
+Casey James",2320937,The_Red_Tour,"28,920 "
+Saint Paul,United States,Xcel Energy Center,"Ed Sheeran
+Casey James",2320937,The_Red_Tour,"28,920 "
+Greensboro,United States,Greensboro Coliseum,"Ed Sheeran
+Casey James",1109253,The_Red_Tour,"13,650 "
+Raleigh,United States,PNC Arena,"Ed Sheeran
+Casey James",1088612,The_Red_Tour,"13,941 "
+Charlottesville,United States,John Paul Jones Arena,"Ed Sheeran
+Casey James",997216,The_Red_Tour,"12,689 "
+Nashville,United States,Bridgestone Arena,"Ed Sheeran
+Casey James",3336545,The_Red_Tour,"41,292 "
+Nashville,United States,Bridgestone Arena,"Ed Sheeran
+Casey James",3336545,The_Red_Tour,"41,292 "
+Nashville,United States,Bridgestone Arena,"Ed Sheeran
+Casey James",3336545,The_Red_Tour,"41,292 "
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290,The_Red_Tour,"30,799 "
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290,The_Red_Tour,"30,799 "
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290,The_Red_Tour,"30,799 "
+Sydney,Australia,Allianz Stadium,"Guy Sebastian
+Neon Trees",4096060,The_Red_Tour,"40,930 "
+Brisbane,Australia,Suncorp Stadium,"Guy Sebastian
+Neon Trees",3895810,The_Red_Tour,"38,907 "
+Perth,Australia,Perth Rectangular Stadium,"Guy Sebastian
+Neon Trees",2364080,The_Red_Tour,"21,827 "
+Melbourne,Australia,Etihad Stadium,"Guy Sebastian
+Neon Trees",4547250,The_Red_Tour,"47,257 "
+London,England,The O2 Arena,The Vamps,5829240,The_Red_Tour,"74,740 "
+London,England,The O2 Arena,The Vamps,5829240,The_Red_Tour,"74,740 "
+London,England,The O2 Arena,The Vamps,5829240,The_Red_Tour,"74,740 "
+Berlin,Germany,O2 World,Andreas Bourani,755006,The_Red_Tour,"10,350 "
+Saitama,Japan,Saitama Super Arena,CTS,1837147,The_Red_Tour,"20,046 "
+Jakarta,Indonesia,MEIS Ancol,Nicole Zefanya,1481473,The_Red_Tour,"8,130 "
+Pasay,Philippines,Mall of Asia Arena,Meg Bucsit,1511662,The_Red_Tour,"9,775 "
+Singapore,Singapore,Singapore Indoor Stadium,Imprompt-3,2524080,The_Red_Tour,"16,344 "
+Kuala Lumpur,Malaysia,Putra Indoor Stadium,IamNeeta,998608,The_Red_Tour,"7,525 "
+Tokyo,Japan,Tokyo Dome,�,10586828,The_1989_World_Tour,"100,320 "
+Tokyo,Japan,Tokyo Dome,�,10586828,The_1989_World_Tour,"100,320 "
+Bossier City,United States,CenturyLink Center,Vance Joy,1458197,The_1989_World_Tour,"12,459 "
+Baton Rouge,United States,LSU Tiger Stadium,"Vance Joy
+Shawn Mendes",4119670,The_1989_World_Tour,"50,227 "
+Detroit,United States,Ford Field,"Vance Joy
+Shawn Mendes",5999690,The_1989_World_Tour,"50,703 "
+Louisville,United States,KFC Yum! Center,Vance Joy,1863281,The_1989_World_Tour,"16,242 "
+Cleveland,United States,Quicken Loans Arena,Vance Joy,1732041,The_1989_World_Tour,"15,503 "
+Pittsburgh,United States,Heinz Field,"Vance Joy
+Shawn Mendes",5836926,The_1989_World_Tour,"54,801 "
+Charlotte,United States,Time Warner Cable Arena,Vance Joy,1627798,The_1989_World_Tour,"15,024 "
+Raleigh,United States,PNC Arena,Vance Joy,1653762,The_1989_World_Tour,"13,886 "
+Philadelphia,United States,Lincoln Financial Field,"Vance Joy
+Shawn Mendes",11987816,The_1989_World_Tour,"101,052 "
+Philadelphia,United States,Lincoln Financial Field,"Vance Joy
+Shawn Mendes",11987816,The_1989_World_Tour,"101,052 "
+Cologne,Germany,Lanxess Arena,James Bay,2054690,The_1989_World_Tour,"29,020 "
+Cologne,Germany,Lanxess Arena,James Bay,2054690,The_1989_World_Tour,"29,020 "
+Amsterdam,Netherlands,Ziggo Dome,James Bay,800829,The_1989_World_Tour,"11,166 "
+Glasgow,Scotland,SSE Hydro,Vance Joy,1119300,The_1989_World_Tour,"11,021 "
+Manchester,England,Manchester Arena,Vance Joy,1478760,The_1989_World_Tour,"14,773 "
+Dublin,Ireland,3Arena,Vance Joy,1975510,The_1989_World_Tour,"25,188 "
+Dublin,Ireland,3Arena,Vance Joy,1975510,The_1989_World_Tour,"25,188 "
+Ottawa,Canada,Canadian Tire Centre,Vance Joy,1325480,The_1989_World_Tour,"13,480 "
+Montreal,Canada,Bell Centre,Vance Joy,1499040,The_1989_World_Tour,"14,770 "
+East Rutherford,United States,MetLife Stadium,"Vance Joy
+Shawn Mendes
+Haim",13423858,The_1989_World_Tour,"110,105 "
+East Rutherford,United States,MetLife Stadium,"Vance Joy
+Shawn Mendes
+Haim",13423858,The_1989_World_Tour,"110,105 "
+Washington,United States,Nationals Park,"Vance Joy
+Shawn Mendes
+Haim",9730596,The_1989_World_Tour,"85,014 "
+Washington,United States,Nationals Park,"Vance Joy
+Shawn Mendes
+Haim",9730596,The_1989_World_Tour,"85,014 "
+Chicago,United States,Soldier Field,"Vance Joy
+Shawn Mendes
+Haim",11469887,The_1989_World_Tour,"110,109 "
+Chicago,United States,Soldier Field,"Vance Joy
+Shawn Mendes
+Haim",11469887,The_1989_World_Tour,"110,109 "
+Foxborough,United States,Gillette Stadium,"Vance Joy
+Shawn Mendes
+Haim",12533166,The_1989_World_Tour,"116,849 "
+Foxborough,United States,Gillette Stadium,"Vance Joy
+Shawn Mendes
+Haim",12533166,The_1989_World_Tour,"116,849 "
+Vancouver,Canada,BC Place,"Vance Joy
+Shawn Mendes",4081820,The_1989_World_Tour,"41,463 "
+Edmonton,Canada,Rexall Place,Vance Joy,2387080,The_1989_World_Tour,"26,534 "
+Edmonton,Canada,Rexall Place,Vance Joy,2387080,The_1989_World_Tour,"26,534 "
+Seattle,United States,CenturyLink Field,"Vance Joy
+Shawn Mendes",6050643,The_1989_World_Tour,"55,711 "
+Santa Clara,United States,Levi's Stadium,"Vance Joy
+Shawn Mendes",13031146,The_1989_World_Tour,"102,139 "
+Santa Clara,United States,Levi's Stadium,"Vance Joy
+Shawn Mendes",13031146,The_1989_World_Tour,"102,139 "
+Glendale,United States,Gila River Arena,Vance Joy,3029628,The_1989_World_Tour,"26,520 "
+Glendale,United States,Gila River Arena,Vance Joy,3029628,The_1989_World_Tour,"26,520 "
+Los Angeles,United States,Staples Center,"Vance Joy
+Haim",8961681,The_1989_World_Tour,"70,563 "
+Los Angeles,United States,Staples Center,"Vance Joy
+Haim",8961681,The_1989_World_Tour,"70,563 "
+Los Angeles,United States,Staples Center,"Vance Joy
+Haim",8961681,The_1989_World_Tour,"70,563 "
+Los Angeles,United States,Staples Center,"Vance Joy
+Haim",8961681,The_1989_World_Tour,"70,563 "
+Los Angeles,United States,Staples Center,"Vance Joy
+Haim",8961681,The_1989_World_Tour,"70,563 "
+San Diego,United States,Petco Park,"Vance Joy
+Shawn Mendes",5475237,The_1989_World_Tour,"44,710 "
+Salt Lake City,United States,EnergySolutions Arena,Vance Joy,1589686,The_1989_World_Tour,"14,131 "
+Denver,United States,Pepsi Center,Vance Joy,2868991,The_1989_World_Tour,"27,126 "
+Denver,United States,Pepsi Center,Vance Joy,2868991,The_1989_World_Tour,"27,126 "
+Houston,United States,Minute Maid Park,"Vance Joy
+Shawn Mendes",5202196,The_1989_World_Tour,"40,122 "
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863,The_1989_World_Tour,"45,126 "
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863,The_1989_World_Tour,"45,126 "
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863,The_1989_World_Tour,"45,126 "
+Indianapolis,United States,Bankers Life Fieldhouse,Vance Joy,1550268,The_1989_World_Tour,"14,010 "
+Columbus,United States,Nationwide Arena,Vance Joy,3369693,The_1989_World_Tour,"29,936 "
+Columbus,United States,Nationwide Arena,Vance Joy,3369693,The_1989_World_Tour,"29,936 "
+Kansas City,United States,Sprint Center,Vance Joy,2967558,The_1989_World_Tour,"27,857 "
+Kansas City,United States,Sprint Center,Vance Joy,2967558,The_1989_World_Tour,"27,857 "
+Nashville,United States,Bridgestone Arena,"Vance Joy
+Haim",3354844,The_1989_World_Tour,"28,917 "
+Nashville,United States,Bridgestone Arena,"Vance Joy
+Haim",3354844,The_1989_World_Tour,"28,917 "
+St. Louis,United States,Scottrade Center,"Vance Joy
+Haim",3452940,The_1989_World_Tour,"29,688 "
+St. Louis,United States,Scottrade Center,"Vance Joy
+Haim",3452940,The_1989_World_Tour,"29,688 "
+Toronto,Canada,Rogers Centre,"Vance Joy
+Shawn Mendes",8670990,The_1989_World_Tour,"99,283 "
+Toronto,Canada,Rogers Centre,"Vance Joy
+Shawn Mendes",8670990,The_1989_World_Tour,"99,283 "
+Des Moines,United States,Wells Fargo Arena,Vance Joy,1566321,The_1989_World_Tour,"13,969 "
+Omaha,United States,CenturyLink Center Omaha,Vance Joy,3121421,The_1989_World_Tour,"29,622 "
+Omaha,United States,CenturyLink Center Omaha,Vance Joy,3121421,The_1989_World_Tour,"29,622 "
+Fargo,United States,Fargodome,Vance Joy,2219188,The_1989_World_Tour,"21,067 "
+Arlington,United States,AT&T Stadium,"Vance Joy
+Shawn Mendes",7396733,The_1989_World_Tour,"62,630 "
+Lexington,United States,Rupp Arena,Vance Joy,1870471,The_1989_World_Tour,"17,084 "
+Greensboro,United States,Greensboro Coliseum,Vance Joy,1662171,The_1989_World_Tour,"15,079 "
+Atlanta,United States,Georgia Dome,"Vance Joy
+Shawn Mendes",6034846,The_1989_World_Tour,"56,046 "
+Miami,United States,American Airlines Arena,Vance Joy,1527919,The_1989_World_Tour,"14,044 "
+Tampa,United States,Raymond James Stadium,"Vance Joy
+Shawn Mendes",6202515,The_1989_World_Tour,"56,987 "
+Singapore,Singapore,Singapore Indoor Stadium,�,3217569,The_1989_World_Tour,"17,726 "
+Singapore,Singapore,Singapore Indoor Stadium,�,3217569,The_1989_World_Tour,"17,726 "
+Shanghai,China,Mercedes-Benz Arena,�,5917348,The_1989_World_Tour,"37,758 "
+Shanghai,China,Mercedes-Benz Arena,�,5917348,The_1989_World_Tour,"37,758 "
+Shanghai,China,Mercedes-Benz Arena,�,5917348,The_1989_World_Tour,"37,758 "
+Sydney,Australia,ANZ Stadium,Vance Joy,6571683,The_1989_World_Tour,"75,980 "
+Brisbane,Australia,Suncorp Stadium,Vance Joy,4759471,The_1989_World_Tour,"46,881 "
+Adelaide,Australia,Adelaide Entertainment Centre,Vance Joy,2407499,The_1989_World_Tour,"20,090 "
+Adelaide,Australia,Adelaide Entertainment Centre,Vance Joy,2407499,The_1989_World_Tour,"20,090 "
+Melbourne,Australia,AAMI Park,Vance Joy,10421553,The_1989_World_Tour,"98,136 "
+Melbourne,Australia,AAMI Park,Vance Joy,10421553,The_1989_World_Tour,"98,136 "
+Melbourne,Australia,AAMI Park,Vance Joy,10421553,The_1989_World_Tour,"98,136 "
+Glendale,United States,University of Phoenix Stadium,"Camila Cabello
+Charli XCX",7214478,Reputation_Stadium_Tour,"59,157 "
+Santa Clara,United States,Levi's Stadium,"Camila Cabello
+Charli XCX",14006963,Reputation_Stadium_Tour,"107,550 "
+Santa Clara,United States,Levi's Stadium,"Camila Cabello
+Charli XCX",14006963,Reputation_Stadium_Tour,"107,550 "
+Pasadena,United States,Rose Bowl,"Camila Cabello
+Charli XCX",16251980,Reputation_Stadium_Tour,"118,084 "
+Pasadena,United States,Rose Bowl,"Camila Cabello
+Charli XCX",16251980,Reputation_Stadium_Tour,"118,084 "
+Seattle,United States,CenturyLink Field,Charli XCX,8672219,Reputation_Stadium_Tour,"56,021 "
+Denver,United States,Sports Authority Field at Mile High,"Camila Cabello
+Charli XCX",7926366,Reputation_Stadium_Tour,"57,140 "
+Chicago,United States,Soldier Field,"Camila Cabello
+Charli XCX",14576697,Reputation_Stadium_Tour,"105,208 "
+Chicago,United States,Soldier Field,"Camila Cabello
+Charli XCX",14576697,Reputation_Stadium_Tour,"105,208 "
+Manchester,England,Etihad Stadium,"Camila Cabello
+Charli XCX",6169724,Reputation_Stadium_Tour,"77,258 "
+Manchester,England,Etihad Stadium,"Camila Cabello
+Charli XCX",6169724,Reputation_Stadium_Tour,"77,258 "
+Dublin,Ireland,Croke Park,"Camila Cabello
+Charli XCX",8567769,Reputation_Stadium_Tour,"133,034 "
+Dublin,Ireland,Croke Park,"Camila Cabello
+Charli XCX",8567769,Reputation_Stadium_Tour,"133,034 "
+London,England,Wembley Stadium,"Camila Cabello
+Charli XCX",12214933,Reputation_Stadium_Tour,"143,427 "
+London,England,Wembley Stadium,"Camila Cabello
+Charli XCX",12214933,Reputation_Stadium_Tour,"143,427 "
+Louisville,United States,Cardinal Stadium,"Camila Cabello
+Charli XCX",4928219,Reputation_Stadium_Tour,"52,138 "
+Columbus,United States,Ohio Stadium,"Camila Cabello
+Charli XCX",6606529,Reputation_Stadium_Tour,"62,897 "
+Landover,United States,FedExField,"Camila Cabello
+Charli XCX",11396004,Reputation_Stadium_Tour,"95,672 "
+Landover,United States,FedExField,"Camila Cabello
+Charli XCX",11396004,Reputation_Stadium_Tour,"95,672 "
+Philadelphia,United States,Lincoln Financial Field,"Camila Cabello
+Charli XCX",11951047,Reputation_Stadium_Tour,"107,378 "
+Philadelphia,United States,Lincoln Financial Field,"Camila Cabello
+Charli XCX",11951047,Reputation_Stadium_Tour,"107,378 "
+Cleveland,United States,FirstEnergy Stadium,"Camila Cabello
+Charli XCX",5148757,Reputation_Stadium_Tour,"51,323 "
+East Rutherford,United States,MetLife Stadium,"Camila Cabello
+Charli XCX",22031386,Reputation_Stadium_Tour,"165,654 "
+East Rutherford,United States,MetLife Stadium,"Camila Cabello
+Charli XCX",22031386,Reputation_Stadium_Tour,"165,654 "
+East Rutherford,United States,MetLife Stadium,"Camila Cabello
+Charli XCX",22031386,Reputation_Stadium_Tour,"165,654 "
+Foxborough,United States,Gillette Stadium,"Camila Cabello
+Charli XCX",21779846,Reputation_Stadium_Tour,"174,764 "
+Foxborough,United States,Gillette Stadium,"Camila Cabello
+Charli XCX",21779846,Reputation_Stadium_Tour,"174,764 "
+Foxborough,United States,Gillette Stadium,"Camila Cabello
+Charli XCX",21779846,Reputation_Stadium_Tour,"174,764 "
+Toronto,Canada,Rogers Centre,"Camila Cabello
+Charli XCX",11177000,Reputation_Stadium_Tour,"100,310 "
+Toronto,Canada,Rogers Centre,"Camila Cabello
+Charli XCX",11177000,Reputation_Stadium_Tour,"100,310 "
+Pittsburgh,United States,Heinz Field,"Camila Cabello
+Charli XCX",6230876,Reputation_Stadium_Tour,"56,445 "
+Atlanta,United States,Mercedes-Benz Stadium,"Camila Cabello
+Charli XCX",18089415,Reputation_Stadium_Tour,"116,746 "
+Atlanta,United States,Mercedes-Benz Stadium,"Camila Cabello
+Charli XCX",18089415,Reputation_Stadium_Tour,"116,746 "
+Tampa,United States,Raymond James Stadium,"Camila Cabello
+Charli XCX",7244264,Reputation_Stadium_Tour,"55,909 "
+Miami Gardens,United States,Hard Rock Stadium,"Camila Cabello
+Charli XCX",7072164,Reputation_Stadium_Tour,"47,818 "
+Nashville,United States,Nissan Stadium,"Camila Cabello
+Charli XCX",9007179,Reputation_Stadium_Tour,"56,112 "
+Detroit,United States,Ford Field,"Camila Cabello
+Charli XCX",6597852,Reputation_Stadium_Tour,"49,464 "
+Minneapolis,United States,U.S. Bank Stadium,"Camila Cabello
+Charli XCX",10242024,Reputation_Stadium_Tour,"98,774 "
+Minneapolis,United States,U.S. Bank Stadium,"Camila Cabello
+Charli XCX",10242024,Reputation_Stadium_Tour,"98,774 "
+Kansas City,United States,Arrowhead Stadium,"Camila Cabello
+Charli XCX",6730138,Reputation_Stadium_Tour,"58,611 "
+Indianapolis,United States,Lucas Oil Stadium,"Camila Cabello
+Charli XCX",6531245,Reputation_Stadium_Tour,"55,729 "
+St. Louis,United States,The Dome at America's Center,"Camila Cabello
+Charli XCX",4884054,Reputation_Stadium_Tour,"47,831 "
+New Orleans,United States,Mercedes-Benz Superdome,"Camila Cabello
+Charli XCX",6491546,Reputation_Stadium_Tour,"53,172 "
+Houston,United States,NRG Stadium,"Camila Cabello
+Charli XCX",9350275,Reputation_Stadium_Tour,"53,800 "
+Arlington,United States,AT&T Stadium,"Camila Cabello
+Charli XCX",15006157,Reputation_Stadium_Tour,"105,002 "
+Arlington,United States,AT&T Stadium,"Camila Cabello
+Charli XCX",15006157,Reputation_Stadium_Tour,"105,002 "
+Perth,Australia,Optus Stadium,"Charli XCX
+Broods",4153658,Reputation_Stadium_Tour,"50,891 "
+Melbourne,Australia,Marvel Stadium,"Charli XCX
+Broods",6755570,Reputation_Stadium_Tour,"63,027 "
+Sydney,Australia,ANZ Stadium,"Charli XCX
+Broods",7686564,Reputation_Stadium_Tour,"72,805 "
+Brisbane,Australia,The Gabba,"Charli XCX
+Broods",4338127,Reputation_Stadium_Tour,"43,907 "
+Auckland,New Zealand,Mount Smart Stadium,"Charli XCX
+Broods",3617593,Reputation_Stadium_Tour,"35,749 "
+Tokyo,Japan,Tokyo Dome,Charli XCX,14859847,Reputation_Stadium_Tour,"100,109 "
+Tokyo,Japan,Tokyo Dome,Charli XCX,14859847,Reputation_Stadium_Tour,"100,109 "
